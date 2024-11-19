@@ -1,0 +1,1 @@
+https://www.coursera.org/learn/generative-ai-elevate-your-data-science-career/home/module/1
