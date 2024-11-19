@@ -1,1 +1,1 @@
-https://www.coursera.org/learn/what-is-datascience/home/module/1
+https://www.coursera.org/learn/data-science-methodology/home/module/1

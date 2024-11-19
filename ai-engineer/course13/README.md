@@ -1,0 +1,1 @@
+https://www.coursera.org/learn/project-generative-ai-applications-with-rag-and-langchain/home/module/1

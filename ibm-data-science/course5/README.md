@@ -1,1 +1,1 @@
-https://www.coursera.org/learn/what-is-datascience/home/module/1
+https://www.coursera.org/learn/python-project-for-data-science/home/module/1

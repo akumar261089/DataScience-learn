@@ -1,0 +1,1 @@
+https://www.coursera.org/learn/generative-ai-llm-architecture-data-preparation/home/module/1
