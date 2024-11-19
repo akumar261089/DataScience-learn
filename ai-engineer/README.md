@@ -6,7 +6,7 @@ https://www.coursera.org/professional-certificates/ai-engineer#courses
 
 ## 📚 Courses and Progress
 
-### 1. **[Machine Learning with Python](../ibm-machine-learning/course9/README.md)**  
+### 1. **[Machine Learning with Python](../ibm-data-science/course9/README.md)**  
 
 ---
 
