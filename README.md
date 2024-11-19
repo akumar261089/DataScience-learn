@@ -1,5 +1,15 @@
 
-## 📚 Courses and Progress
+
+## 📚 Gist of below courses
+
+
+### 1 **[Python Basics](python-basics/README.md)**
+
+### 2 **[Python for Data](python-for-data/README.md)**
+
+### 3 **[Python for ML](python-for-ml/README.md)**
+
+## 📚 Courses from Coursera
 
 ### 1. **[ibm-data-science](ibm-data-science/README.md)**  
 
