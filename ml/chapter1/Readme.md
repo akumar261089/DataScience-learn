@@ -1,4 +1,4 @@
-# Chapter 1: Introduction to Machine Learning
+#  Chapter 1: Introduction to Machine Learning
 
 ## 1.1 What is Machine Learning?
 
