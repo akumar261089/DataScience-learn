@@ -412,9 +412,7 @@ print(1 in my_set)  # Output: True
 
 | Feature           | List        | Tuple       | Dictionary        | Set           |
 |-------------------|-------------|-------------|-------------------|---------------|
-| Ordered
-
-           | Yes         | Yes         | No                | No            |
+| Ordered           | Yes         | Yes         | No                | No            |
 | Mutable           | Yes         | No          | Yes               | Yes           |
 | Duplicate Allowed | Yes         | Yes         | Keys: No, Values: Yes | No        |
 
