@@ -2,13 +2,13 @@
 
 ## 📚 Chapters
 
-### [1. Introduction to Machine Learning](chapter1/README.md)
+### [1. Introduction to Machine Learning](chapter1/Readme.md)
 
-#### [1.1 What is Machine Learning?](chapter1/README.md#11-what-is-machine-learning)
+#### [1.1 What is Machine Learning?](chapter1/Readme.md#11-what-is-machine-learning)
 - Definition and scope of machine learning
 - Differences between AI, machine learning, and deep learning
 
-#### [1.2 Types of Machine Learning](chapter1/README.md#12-types-of-machine-learning)
+#### [1.2 Types of Machine Learning](chapter1/Readme.md#12-types-of-machine-learning)
 - Supervised learning
   - Classification
   - Regression
@@ -17,7 +17,7 @@
   - Dimensionality reduction
 - Reinforcement learning
 
-#### [1.3 Real-world Applications of Machine Learning](chapter1/README.md#13-real-world-applications-of-machine-learning)
+#### [1.3 Real-world Applications of Machine Learning](chapter1/Readme.md#13-real-world-applications-of-machine-learning)
 - Healthcare
 - Finance
 - Marketing
